@@ -1,0 +1,3 @@
+C:/Users/josep/Desktop/UserCredentialsManager/UCM_build/CMakeFiles/UserCredentialsManager.dir
+C:/Users/josep/Desktop/UserCredentialsManager/UCM_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/josep/Desktop/UserCredentialsManager/UCM_build/CMakeFiles/ZERO_CHECK.dir
